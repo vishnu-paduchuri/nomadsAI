@@ -37,3 +37,9 @@ Screenshots
 | Listings Search Web | Listings Search Msite    |
 | :---:   | :---: |
 | <img width="1604" alt="Screenshot 2024-07-02 at 5 33 40 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/22462c52-caf6-4e69-b15f-3ce5c64f442e">| <img width="396" alt="Screenshot 2024-07-02 at 5 33 46 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/c899185b-d18a-4673-a68e-0c6417c60b68"> | 
+
+| **Call to Action Nudge** |
+| :---:   | 
+| <img width="1479" alt="Screenshot 2024-07-02 at 5 20 37 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/bf4e42b1-69fe-42ad-9d89-b9a873e79033">|
+
+Demo Video of Task 4, 3 and 2: https://drive.google.com/file/d/1ZRgMMs5xOAXxpDBLeAJpd9Wc-Qn5zCb1/view?usp=sharing
