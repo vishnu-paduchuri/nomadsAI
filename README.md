@@ -14,23 +14,26 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000/discover](http://localhost:3000/discover) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Screenshots 
+| Loading Web | Loading Msite    |
+| :---:   | :---: |
+| <img width="1728" alt="Screenshot 2024-07-02 at 5 20 11 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/0a6f7cd0-83c0-4660-93cb-c2cf21c5c414">| <img width="386" alt="Screenshot 2024-07-02 at 5 20 27 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/069a6803-e8aa-4a0c-b30b-8f7314f92fe5">| 
 
-## Learn More
+| Listings Web | Listings Msite    |
+| :---:   | :---: |
+|<img width="1664" alt="Screenshot 2024-07-02 at 5 30 08 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/2d89f1aa-19e9-4734-b484-0f435387969b">| <img width="382" alt="Screenshot 2024-07-02 at 5 30 43 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/1965248f-ac47-499c-b171-3b38259697e3">| 
 
-To learn more about Next.js, take a look at the following resources:
+| Notifications Web | Notifications Msite    |
+| :---:   | :---: |
+| <img width="965" alt="Screenshot 2024-07-02 at 5 22 23 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/b1db50cc-bbc4-43b6-8dba-b1ab50d03f1b"> | <img width="386" alt="Screenshot 2024-07-02 at 5 31 55 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/e165eebc-063f-4771-8c9d-d0cb8bd8801f">| 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Listings Share Web | Listings Share Msite    |
+| :---:   | :---: |
+| <img width="565" alt="Screenshot 2024-07-02 at 5 22 29 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/8dba9ba5-fa26-4cc6-82f7-a2f68f4e1398"> | <img width="392" alt="Screenshot 2024-07-02 at 5 22 43 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/bd258947-ea77-460b-a67e-ec21522faaa8">| 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+| Listings Search Web | Listings Search Msite    |
+| :---:   | :---: |
+| <img width="1604" alt="Screenshot 2024-07-02 at 5 33 40 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/22462c52-caf6-4e69-b15f-3ce5c64f442e">| <img width="396" alt="Screenshot 2024-07-02 at 5 33 46 PM" src="https://github.com/vishnu-paduchuri/nomadsAI/assets/144935364/c899185b-d18a-4673-a68e-0c6417c60b68"> | 
