@@ -1,0 +1,123 @@
+const mockdataInitialListings = [
+  {
+    id: 1,
+    title:
+      "Seller Financing Up to 50% - Purchase the Premier Axe Throwing Brand in NY State",
+    subtitle: "Recreational Sports Club Facilities in Albany, NY",
+    askingPrice: "2.5M",
+    grossRevenue: "1.2M",
+    projectedGrowth: "2x",
+    cashFlow: "1000",
+    listingSellingPointType: "Hot",
+    url: "https://diginomad.xyz/axe-throwing",
+  },
+  {
+    id: 2,
+    title:
+      "Premier Fitness Center - Profitable and Growing with Modern Equipment and Classes",
+    subtitle: "Health and Fitness Club in Buffalo, NY",
+    askingPrice: "3M",
+    grossRevenue: "2M",
+    projectedGrowth: "1.5x",
+    cashFlow: "2000",
+    listingSellingPointType: "New",
+    url: "https://diginomad.xyz/fitness-center",
+  },
+  {
+    id: 3,
+    title:
+      "Established Restaurant Chain - Prime Locations and Excellent Customer Reviews",
+    subtitle: "Multiple Locations Across NYC",
+    askingPrice: "5M",
+    grossRevenue: "4M",
+    projectedGrowth: "3x",
+    cashFlow: "5000",
+    listingSellingPointType: "Best Deal",
+    url: "https://diginomad.xyz/restaurant",
+  },
+  {
+    id: 4,
+    title:
+      "Profitable E-commerce Business - High Growth Potential in Niche Market",
+    subtitle: "Online Retailer Based in Rochester, NY",
+    askingPrice: "1.5M",
+    grossRevenue: "1.1M",
+    projectedGrowth: "2.5x",
+    cashFlow: "1500",
+    listingSellingPointType: "Top Pick by AI",
+    url: "https://diginomad.xyz/ecom-rec",
+  },
+  {
+    id: 5,
+    title:
+      "Innovative Tech Startup - Strong IP Portfolio and Growing Customer Base",
+    subtitle: "Tech Hub in Syracuse, NY",
+    askingPrice: "4M",
+    grossRevenue: "3M",
+    projectedGrowth: "4x",
+    cashFlow: "4000",
+    listingSellingPointType: "Most Suitable for You",
+    url: "https://diginomad.xyz/tech-startup",
+  },
+  {
+    id: 6,
+    title:
+      "Luxury Spa and Wellness Center - Profitable and Growing with Loyal Clientele",
+    subtitle: "Exclusive Location in Manhattan, NY",
+    askingPrice: "6M",
+    grossRevenue: "5M",
+    projectedGrowth: "3.5x",
+    cashFlow: "6000",
+    listingSellingPointType: "Hot",
+    url: "https://diginomad.xyz/luxury-spa",
+  },
+  {
+    id: 7,
+    title:
+      "Boutique Hotel - High Occupancy Rates and Excellent Customer Reviews",
+    subtitle: "Charming Hotel in the Catskills, NY",
+    askingPrice: "8M",
+    grossRevenue: "7M",
+    projectedGrowth: "2x",
+    cashFlow: "7000",
+    listingSellingPointType: "Best Deal",
+    url: "https://diginomad.xyz/boutique-hotel",
+  },
+  {
+    id: 8,
+    title: "Successful Digital Marketing Agency with Diverse Client Portfolio",
+    subtitle: "Located in Brooklyn, NY",
+    askingPrice: "3.5M",
+    grossRevenue: "3M",
+    projectedGrowth: "3x",
+    cashFlow: "3000",
+    listingSellingPointType: "New",
+    url: "https://diginomad.xyz/digital-marketing",
+  },
+  {
+    id: 9,
+    title:
+      "Renowned Art Gallery - Prime Location and Strong Artist Relationships",
+    subtitle: "Well-Known Gallery in Chelsea, NYC",
+    askingPrice: "4.5M",
+    grossRevenue: "4M",
+    projectedGrowth: "2.5x",
+    cashFlow: "4500",
+    listingSellingPointType: "Top Pick by AI",
+    url: "https://diginomad.xyz/art-gallery",
+  },
+  {
+    id: 10,
+    title:
+      "Leading Construction Firm - High Revenue and Established Client Base",
+    subtitle: "Established Business in Long Island, NY",
+    askingPrice: "10M",
+    grossRevenue: "9M",
+    projectedGrowth: "5x",
+    cashFlow: "9000",
+    listingSellingPointType: "Most Suitable for You",
+    url: "https://diginomad.xyz/construction-firm",
+  },
+];
+
+export { mockdataInitialListings };
